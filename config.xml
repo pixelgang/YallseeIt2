@@ -1,9 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8" ?>
+
 <widget id="com.pixelgang.yallseeit" version="3.2" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-=======
-<widget id="com.pixelgang.yallseeit" version="3.1" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
->>>>>>> 606c2f65d7f3bc34031aaac7c044317cc3303dce
+
 	<name>Yall See It</name>
 	<description>Yall see it is a game made for Country Cooking</description>
 	<author href="http://www.pixelgangstudios.com" email="support@pixelgangstudios.com">Pixel Gang Studios</author>
