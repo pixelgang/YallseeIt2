@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<widget id="com.pixelgang.yallseeit" version="3.5" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.pixelgang.yallseeit" version="3.6" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 
 	<name>Yall See It</name>
 	<description>Yall see it is a game made for Country Cooking</description>
@@ -20,7 +20,7 @@
 
 
 	<preference name="deployment-target" value="10.0" />
-	<preference name="android-minSdkVersion" value="23" />
+	<preference name="android-minSdkVersion" value="26" />
 	<access origin="*" />
 
 	
