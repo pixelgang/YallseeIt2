@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<widget id="com.pixelgang.yallseeit" version="4.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.pixelgang.yallseeit" version="4.2" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 
 	<name>Yall See It</name>
 	<description>Yall see it is a game made for Country Cooking</description>
@@ -15,13 +15,17 @@
 	<preference name="fullscreen" value="true" />
 	<preference name="DisallowOverscroll" value="true" />
 	<preference name="AllowInlineMediaPlayback" value="true" />
-	<preference name='phonegap-version' value='cli-7.0.1' />
-	<preference name='pgb-builder-version' value='1' />
+	
 
 
 	<preference name="deployment-target" value="10.0" />
 	<preference name="android-minSdkVersion" value="25" />
 	<access origin="*" />
+	
+	<engines>
+  <engine name=”cordova” version=”>=7.1.0"/>
+  <engine name=”cordova-android” version=”>=6.3.0"/>
+</engines>
 
 	
 	
