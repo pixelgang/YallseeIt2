@@ -22,10 +22,10 @@
 	<preference name="android-minSdkVersion" value="25" />
 	<access origin="*" />
 	
-	<engines>
+	
   <engine name=”cordova” version=”>=7.1.0"/>
   <engine name=”cordova-android” version=”>=6.3.0"/>
-</engines>
+
 
 	
 	
