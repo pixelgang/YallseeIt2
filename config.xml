@@ -25,12 +25,11 @@
 	<preference name="android-minSdkVersion" value="25" />
 	<access origin="*" />
 
-	<plugin name="cordova-custom-config" />
+	
 
 	<plugin name="enhance-cordova-connector" />
 
 	<plugin name="cordova-custom-config" />
-
 	<plugin name="cordova-plugin-file" />
 	<plugin name="cordova-plugin-inappbrowser" />
 	<plugin name="cordova-plugin-statusbar" />
